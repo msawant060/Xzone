@@ -1,0 +1,806 @@
+<html lang="en" class="gr__pamukovic_com"><head><style type="text/css">.pac-container{background-color:#fff;position:absolute!important;z-index:1000;border-radius:2px;border-top:1px solid #d9d9d9;font-family:Arial,sans-serif;box-shadow:0 2px 6px rgba(0,0,0,0.3);-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;overflow:hidden}.pac-logo:after{content:"";padding:1px 1px 1px 0;height:18px;box-sizing:border-box;text-align:right;display:block;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3.png);background-position:right;background-repeat:no-repeat;background-size:120px 14px}.hdpi.pac-logo:after{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/powered-by-google-on-white3_hdpi.png)}.pac-item{cursor:default;padding:0 4px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;line-height:30px;text-align:left;border-top:1px solid #e6e6e6;font-size:11px;color:#999}.pac-item:hover{background-color:#fafafa}.pac-item-selected,.pac-item-selected:hover{background-color:#ebf2fe}.pac-matched{font-weight:700}.pac-item-query{font-size:13px;padding-right:3px;color:#000}.pac-icon{width:15px;height:20px;margin-right:7px;margin-top:6px;display:inline-block;vertical-align:top;background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons.png);background-size:34px}.hdpi .pac-icon{background-image:url(https://maps.gstatic.com/mapfiles/api-3/images/autocomplete-icons_hdpi.png)}.pac-icon-search{background-position:-1px -1px}.pac-item-selected .pac-icon-search{background-position:-18px -1px}.pac-icon-marker{background-position:-1px -161px}.pac-item-selected .pac-icon-marker{background-position:-18px -161px}.pac-placeholder{color:gray}
+</style>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title> xZone :: Deals and coupons finding and buying application </title>
+    <meta name="generator" content="#">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+<link href="https://xzonelocal.com/assets/web_assets/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://xzonelocal.com/assets/web_assets/css/themify-icons.css" rel="stylesheet">
+<link href="https://xzonelocal.com/assets/web_assets/css/font-awesome.css" rel="stylesheet">
+<link href="https://xzonelocal.com/assets/web_assets/plugins/owl.carousel/assets/owl.carousel.css" rel="stylesheet">
+<link href="https://xzonelocal.com/assets/web_assets/css/animate.min.css" rel="stylesheet">
+<link href="https://xzonelocal.com/assets/web_assets/css/animsition.css" rel="stylesheet">
+<link href="https://xzonelocal.com/assets/web_assets/css/plugins.min.css" rel="stylesheet">
+<link href="https://xzonelocal.com/assets/web_assets/css/style.css" rel="stylesheet">
+
+<link href="https://xzonelocal.com/assets/web_assets/css/custom.css" rel="stylesheet">
+
+<link href="https://xzonelocal.com/assets/web_assets/css/shortcode.css" rel="stylesheet">
+<!-- ratings  -->
+<link href="https://xzonelocal.com/assets/web_assets/css/star-rating.css" rel="stylesheet">
+
+
+<link rel="shortcut icon" href="#">
+<link rel="apple-touch-icon" href="#">
+<link rel="apple-touch-icon" sizes="72x72" href="#">
+<link rel="apple-touch-icon" sizes="114x114" href="#">
+
+<!-- Sweetalert CSS -->
+<link href="https://xzonelocal.com/assets/web_assets/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+
+<link rel="shortcut icon" href="https://xzonelocal.com/assets/web_assets/images/favicon.png">       
+    <style type="text/css" id="notify-metro">.notifyjs-metro-default {
+  color: #fafafa !important;
+  background-color: #ABB7B7;
+  border: 1px solid #ABB7B7;
+}
+.notifyjs-metro-error {
+  color: #fafafa !important;
+  background-color: #f05050;
+  border: 1px solid #ef5350;
+}
+.notifyjs-metro-custom {
+  color: #fafafa !important;
+  background-color: #5fbeaa;
+  border: 1px solid #5fbeaa;
+}
+.notifyjs-metro-success {
+  color: #fafafa !important;
+  background-color: #81c868;
+  border: 1px solid #33b86c;
+}
+.notifyjs-metro-info {
+  color: #fafafa !important;
+  background-color: #34d3eb;
+  border: 1px solid #29b6f6;
+}
+.notifyjs-metro-warning {
+  color: #fafafa !important;
+  background-color: #ffbd4a;
+  border: 1px solid #ffd740;
+}
+.notifyjs-metro-black {
+  color: #fafafa !important;
+  background-color: #4c5667;
+  border: 1px solid #212121;
+}
+.notifyjs-metro-white {
+  background-color: #e6eaed;
+  border: 1px solid #ddd;
+}
+</style><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/36/12/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/36/12/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/36/12/controls.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/36/12/places_impl.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/36/12/geocoder.js"></script><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><style type="text/css" id="core-notify">.notifyjs-corner {
+  position: fixed;
+  margin: 5px;
+  z-index: 1050;
+}
+
+.notifyjs-corner .notifyjs-wrapper,
+.notifyjs-corner .notifyjs-container {
+  position: relative;
+  display: block;
+  height: inherit;
+  width: inherit;
+  margin: 3px;
+}
+
+.notifyjs-wrapper {
+  z-index: 1;
+  position: absolute;
+  display: inline-block;
+  height: 0;
+  width: 0;
+}
+
+.notifyjs-container {
+  display: none;
+  z-index: 1;
+  position: absolute;
+}
+
+.notifyjs-hidable {
+  cursor: pointer;
+}
+
+[data-notify-text],[data-notify-html] {
+  position: relative;
+}
+
+.notifyjs-arrow {
+  position: absolute;
+  z-index: 2;
+  width: 0;
+  height: 0;
+}</style></head>
+    <body>
+         <div class="site-wrapper animsition" data-animsition-in="fade-in" data-animsition-out="fade-out" style="animation-duration: 0.8s; opacity: 1;">
+        <header>
+            <div class="header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <a href="https://xzonelocal.com/" class="navbar-brand logo">
+                                <img src="https://xzonelocal.com/assets/web_assets/images/logo-header.png" alt="" class="img-responsive">
+                            </a>
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#Navbar">
+                                <span class="sr-only">
+                                    Toggle navigation
+                                </span>
+                                <span class="icon-bar bg-dark">
+                                </span>
+                                <span class="icon-bar bg-dark">
+                                </span>
+                                <span class="icon-bar bg-dark">
+                                </span>
+                            </button>
+                        </div>
+                        <div class="col-sm-9 p-r-0 hidden-xs">
+                            <div class="search-form">
+                                <form action="https://xzonelocal.com/home/search_deals/" id="search_deals" name="search_deals" method="post" accept-charset="utf-8" novalidate="">
+<input type="hidden" name="csrf_test_name" value="6db5cfdfa9a708000c17b96ca9f9496c">   
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <input class="form-control" placeholder="Search dealcodes with location" type="text" name="search_location" id="search_location" required="" autocomplete="off">
+                                                </div>
+                                            </div>
+                                            <div id="search_location_error"></div>
+                                                                                    </div>
+                                        <div class="col-sm-4">
+                                            <select class="form-control" placehoder="Select Category" name="search_category" id="search_category">
+                                                <option value=""> All categories </option>
+                                                                                                            <option value="5">Cleaners</option>      
+                                                                                                            <option value="4" selected="">Beverage</option>      
+                                                                                                            <option value="3">Food</option>      
+                                                                                                            <option value="2">Beauty</option>      
+                                                                                                            <option value="1">Bakery</option>      
+                                                                                            </select>
+                                                                                    </div>
+                                        <div>
+                                            <input type="hidden" name="latitude" id="latitude" value="12.9833"> 
+                                            <input type="hidden" name="longitude" id="longitude" value="77.5833"> 
+                                            <input type="hidden" name="city" id="city" value="Bengaluru"> 
+                                            <input type="hidden" name="country" id="country" value="India"> 
+                                            <input type="hidden" name="state" id="state" value="Karnataka">
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <button class="btn btn-raised ripple-effect btn-default btn-block" type="submit" disabled>
+                                                Search dealcodes                                            </button>
+                                        </div>
+                                    </div>
+                                </form>                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="nav-wrap">
+                <div class="nav-wrap-holder">
+                    <div class="container" id="nav_wrapper">
+                        <nav class="navbar navbar-static-top nav-white" id="main_navbar" role="navigation">
+                            <!-- Collect the nav links, forms, and other content for toggling -->
+                            <div class="collapse navbar-collapse" id="Navbar">
+
+                                <ul class="nav navbar-nav navbar-left">
+                                    <li>
+                                        <a href="https://xzonelocal.com/">
+                                            Home                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://xzonelocal.com/aboutus">
+                                            About Us                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://xzonelocal.com/deals">
+                                            Dealcode                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://xzonelocal.com/merchants">
+                                            Merchants                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://xzonelocal.com/contactus">
+                                            Contact Us                                        </a>
+                                    </li>
+                                </ul>
+                                                                    <ul class="nav navbar-nav navbar-right">
+                                        <li class="">
+                                            <a href="https://xzonelocal.com/login" class="login ripple-effect">
+                                                Login                                            </a>
+                                        </li>
+                                        <li class="">
+                                            <a href="https://xzonelocal.com/signup" class="signup ripple-effect">
+                                                Signup                                            </a>
+                                        </li>
+                                    </ul>
+                                
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+                <!-- /.div nav wrap holder -->
+            </div>
+        </header>        <section class="banner-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="banenr-content">
+                            <h1>
+                                <small> Welcome to </small>
+                                <span class="text-uppercase">Xzone</span>
+                            </h1>
+                            <h2> Visit local businesses and check out the best quality food and services! </h2>
+                            <p> 
+                                Take advantage of our Dealcodes at nearby restaurants, cafes, salons, and much more.
+                                Enjoy the experience with your friends and family by sharing a giftcode. 
+                                Currently, local businesses have an increasing challenge in advertising, marketing, the right location, technology, customer service, etc. compared to “BIG” businesses. Xzone helps small businesses provide the best quality of service for everyone! 
+                            </p>
+                <!--            <a href="https://xzonelocal.com/deals" class="btn btn-white btn-lg ripple-effect">
+                                Search Deals
+                            </a> --> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="section-features">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="features-card shadow bg-white m-t-40">
+                            <div class="row">
+                                <div class="col-md-3 col-sm-6">
+                                    <div class="bottom-line block-one border-r border-0" style="height: 363px;">
+                                        <div class="features-block text-center">
+                                            <img src="https://xzonelocal.com/assets/web_assets/images/icons/barcode@1x.png" class="img-responsive">
+                                            <div class="features-info">
+                                                <h2> Scan N’ Go </h2>
+                                                <p>
+                                                    <b>Helps make rapid payments to reduce wait times!</b><br>
+                                                    Sometimes we forget our wallet, but we never forget our phone. Xzone turns your phone into your wallet!
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-6 margin-top30">
+                                    <div class="bottom-line block-one border-r border-r-0" style="height: 363px;">
+                                        <div class="features-block text-center">
+                                            <img src="https://xzonelocal.com/assets/web_assets/images/icons/location@1x.png" class="img-responsive">
+                                            <div class="features-info">
+                                                <h2> Location </h2>
+                                                <p>
+                                                    <b>You can see all Xzone businesses from a quick glance.</b><br>
+                                                    every nook and corner
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-6 margin-t30">
+                                    <div class="bottom-line block-one border-r border-0" style="height: 363px;">
+                                        <div class="features-block text-center">
+                                            <img src="https://xzonelocal.com/assets/web_assets/images/icons/free-coin@1px.png" class="img-responsive">
+                                            <div class="features-info">
+                                                <h2> Free points = Free money  </h2>
+                                                <p>
+                                                    <b>Earn reward points on all Xzone purchases.</b><br>
+                                                    For every dollar you spend you earn 5 point. 100 points is the same value as one dollar with Xzone members.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-6 margin-t30">
+                                    <div class="bottom-line block-one" style="height: 363px;">
+                                        <div class="features-block text-center">
+                                            <img src="https://xzonelocal.com/assets/web_assets/images/icons/dealcode@1x.png" class="img-responsive">
+                                            <div class="features-info">
+                                                <h2> DealCode </h2>
+                                                <p>
+                                                   <b>Dealcodes are coupons and promotions from all your favorite places to shop.</b><br>
+                                                   We provide the best quality service, as well as the best price! You always save with Xzone! 
+                                               </p>
+                                           </div>
+                                       </div>
+                                   </div>
+                               </div>
+                               <div class="col-md-3 col-sm-6">
+                                <div class="block-one border-r border-b-1 p-t-30 border-0" style="height: 392px;">
+                                    <div class="features-block text-center">
+                                        <img src="https://xzonelocal.com/assets/web_assets/images/icons/icon-gift@1x.png" class="img-responsive">
+                                        <div class="features-info">
+                                            <h2> GiftCode </h2>
+                                            <p>
+                                                <b>You can send a Dealcode as a Giftcode to your friends and family from any location.</b><br>
+                                                Gifts everyone would love!
+                                                Pick any food, drink, or service they would like and send it!
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="block-one border-r border-b-1 p-t-30 border-r-0" style="height: 392px;">
+                                    <div class="features-block text-center">
+                                        <img src="https://xzonelocal.com/assets/web_assets/images/icons/track@1x.png" class="img-responsive">
+                                        <div class="features-info">
+                                            <h2> Track your Expenses  </h2>
+                                            <p>
+                                                <b>Save all your purchased and earned points by sending it to your email.</b><br>
+                                                Go paperless. We like to save trees!
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="block-one border-r p-t-30 border-0 border-bottom-1" style="height: 392px;">
+                                    <div class="features-block text-center">
+                                        <img src="https://xzonelocal.com/assets/web_assets/images/icons/icon-star@1x.png" class="img-responsive">
+                                        <div class="features-info">
+                                            <h2> Earn Free Points </h2>
+                                            <p>
+                                                <b>You can earn UNLIMITED points by rating and referring Xzone to your favorite businesses.</b><br>
+                                                We want to give you endless point so you can try out all Xzone locations! 
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="block-one p-t-30" style="height: 392px;">
+                                    <div class="features-block text-center">
+                                        <img src="https://xzonelocal.com/assets/web_assets/images/icons/icon-share@1x.png" class="img-responsive">
+                                        <div class="features-info">
+                                            <h2> Share Your Thoughts  </h2>
+                                            <p>
+                                                <b>We’d love to hear from you!</b><br>
+                                                We encourage you to share your experiences and your ideas!
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>    
+        </div>
+    </div>
+
+  
+  
+</div>    <script src="https://xzonelocal.com/assets/web_assets/js/jquery.min.js"></script>
+<script src="https://xzonelocal.com/assets/web_assets/js/bootstrap.min.js"></script>
+<script src="https://xzonelocal.com/assets/web_assets/js/jquery.animsition.min.js"></script>
+<script src="https://xzonelocal.com/assets/web_assets/plugins/owl.carousel/owl.carousel.js"></script>
+<script src="https://xzonelocal.com/assets/web_assets/js/jquery.flexslider-min.js"></script>
+<script src="https://xzonelocal.com/assets/web_assets/js/kupon.js"></script>
+<script src="https://xzonelocal.com/assets/web_assets/js/plugins.js"></script>
+<script src="https://xzonelocal.com/assets/web_assets/js/star-rating.js"></script>
+
+<!-- Sweetalert JS -->
+<script src="https://xzonelocal.com/assets/web_assets/plugins/sweetalert/sweetalert.min.js"></script>
+
+<!-- Scripts for google maps and location-->
+<script src="https://xzonelocal.com/assets/web_assets/js/jquery.geocomplete.js" type="text/javascript"></script> 
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCA9ill6DdwXrJtdVAubkAN4zHbx6ZRiE8&amp;libraries=places&amp;sensor=false"></script>
+
+<!-- Parsley form validation -->
+<script type="text/javascript" src="https://xzonelocal.com/assets/web_assets/plugins/parsleyjs/dist/parsley.min.js"></script> 
+
+<!--  Get browser's timezone  -->
+<script src="https://xzonelocal.com/assets/web_assets/js/jstz.min.js"></script>
+
+<!--  Notifcation Popup  -->
+<script src="https://xzonelocal.com/assets/web_assets/plugins/notifyjs/dist/notify.min.js"></script>
+<script src="https://xzonelocal.com/assets/web_assets/plugins/notifications/notify-metro.js"></script>
+
+<!--  Below code for get location from ip address  -->
+
+
+<!-- 
+ -->
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $( document ).on( 'focus', ':input', function(){
+            $( this ).attr( 'autocomplete', 'off' );
+        });
+    });
+	/* Document ready */
+    $(document).ready(function(){
+        $('form').parsley();
+        //Get browser timezone & set it
+        var timezone = jstz.determine();
+        var url = 'https://xzonelocal.com/web/home/set_timezone';
+        $.ajax({
+            type: "GET",
+            url: url,
+            data: {
+                "timezone":timezone.name(),
+            },
+            success:function(results)
+            {   
+                
+            }
+        });
+    });
+
+	/* Google place auto complete */
+	$("#search_location").geocomplete().bind("geocode:result", function(event, result){ 
+	    $("#latitude").val(result.geometry.location.lat().toFixed(8)); 
+	    $("#longitude").val(result.geometry.location.lng().toFixed(8));  
+	    
+	    // Find city from address
+	    var componentForm = { locality: 'long_name', administrative_area_level_1: 'long_name', country: 'long_name' };
+
+	    for (var i = 0; i < result.address_components.length; i++) {
+	        var addressType = result.address_components[i].types[0];
+	        if (componentForm[addressType]) {
+	            if(addressType == "locality" || addressType == "country" || addressType == "administrative_area_level_1")
+	            {
+	                var val = result.address_components[i][componentForm[addressType]];   
+	                if(addressType == "locality") $("#city").val(val);
+	                if(addressType == "country") $("#country").val(val);
+	                if(addressType == "administrative_area_level_1") $("#state").val(val);
+	            }
+	        }
+	    }
+	    $("#search_location_error").html("");
+        codeLatLng($("#latitude").val(), $("#longitude").val());
+
+	});
+
+    var geocoder = new google.maps.Geocoder();
+    $(window).on('load', function() {
+        /* Script for get cureent location */
+                    $("#latitude").val("12.9833"); 
+            $("#longitude").val("77.5833");  
+            codeLatLng(12.9833, 77.5833);
+            }); 
+
+    /* Get location from geolocation */
+    function getLocation() {
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(showPosition, showError);
+        } else { 
+            /* if browser does not support geo location then get it from ip */
+            /* Check location from ip is empty or not? */
+                            $("#latitude").val("12.9833");
+                $("#longitude").val("77.5833");
+                codeLatLng($("#latitude").val(), $("#longitude").val());
+                    }
+    }
+
+    /* geolocation find location successfully  */
+    function showPosition(position) {
+        $("#latitude").val(position.coords.latitude);
+        $("#longitude").val(position.coords.longitude);
+        codeLatLng($("#latitude").val(), $("#longitude").val(""));
+    }
+    
+    /* if geolocation failed then call api for get lat long */
+    function showError(error) { 
+        /* if geo location throws an error then get it from ip */
+        /* Check location from ip is empty or not? */
+                    $("#latitude").val("12.9833");
+            $("#longitude").val("77.5833");
+            codeLatLng($("#latitude").val(), $("#longitude").val());
+            }
+
+    /* Check lat long is currect or not and get location from lat long */
+    function codeLatLng(lat, lng) {
+        var latlng = new google.maps.LatLng(lat, lng);
+        geocoder.geocode({'latLng': latlng}, function(results, status) {
+            
+            if (status == google.maps.GeocoderStatus.OK) 
+            {
+                
+                if (results[0]) {
+                    latitude = lat;
+                    longitude = lng;
+                    var locality_found = false;
+                    var componentForm = {
+                        locality: 'long_name',
+                        administrative_area_level_1: 'long_name',
+                        country: 'long_name'
+                    };
+                    $("#search_location").val(results[0].formatted_address);
+                    for (var i = 0; i < results[0].address_components.length; i++) {
+                        var addressType = results[0].address_components[i].types[0];
+                        if (componentForm[addressType]) {
+                            if(addressType == "locality" || addressType == "country" || addressType == "administrative_area_level_1")
+                            {
+                                locality_found = true;
+                                var val = results[0].address_components[i][componentForm[addressType]];   
+                                if(addressType == "locality") $("#city").val(val);
+                                if(addressType == "country") $("#country").val(val);
+                                if(addressType == "administrative_area_level_1") $("#state").val(val);
+                            }
+                        }
+                    }
+                    $("#search_location_error").html("");
+                    set_session_server();
+                } 
+                else 
+                {
+                    //swal("We're unable to fetch your current location");
+                    $("#search_location_error").html("We're unable to fetch your current location");
+                }
+            } 
+            else 
+            {
+                //swal("Geocoder failed due to: " + status);
+                $("#search_location_error").html("We're unable to fetch your current location");
+            }
+        });
+    }
+
+    /* used to set session in server */
+    function set_session_server(){
+    	$.ajax({
+		    url : "https://xzonelocal.com/web/home/set_session",
+		    type : 'GET',
+		    data : {
+		        'latitude' : $("#latitude").val(),
+		        'longitude' : $("#longitude").val(),
+		        'location' : $("#search_location").val(),
+		        'city' : $("#city").val(),
+		        'state' : $("#state").val(),
+		        'country' : $("#country").val(),
+		    },
+		    success : function(data) {
+                if(data.code == "0"){
+                    $("#search_location_error").html("We're unable to fetch your current location");   
+                } else {
+                    $("#search_location_error").html("");
+                    if(typeof popular_merchants !== 'undefined' && $.isFunction(popular_merchants)) {
+                        popular_merchants();
+                        featured_deals();
+                    }
+                }
+		    }, error : function(request,error) {
+                /* if any error while setting up session */
+		        //$("#search_location_error").html("We're unable to fetch your current location");
+		    }
+		});
+    }
+
+    /* Hide and show alert messages */
+    $(".alert").fadeTo(3000, 500).slideUp(500, function(){
+        $(".alert").slideUp(500);
+    });
+
+    /* Animation */
+    function CounterAnimation(counterid, x) {
+        $('#'+counterid).addClass(x + ' animated').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+            $(this).removeClass(x + ' animated');
+        });
+    };
+
+    /**
+     * Notifications
+     */ 
+    var Notification = function() {};
+
+    //simple notificaiton
+    Notification.prototype.notify = function(style,position, title, text) {
+        var icon = 'fa fa-adjust';
+        if(style == "error"){
+            icon = "fa fa-exclamation";
+        }else if(style == "warning"){
+            icon = "fa fa-warning";
+        }else if(style == "success"){
+            icon = "fa fa-check";
+        }else if(style == "custom"){
+            icon = "md md-album";
+        }else if(style == "info"){
+            icon = "fa fa-question";
+        }else{
+            icon = "fa fa-adjust";
+        }
+        $.notify({
+            title: title,
+            text: text,
+            image: "<i class='"+icon+"'></i>"
+        }, {
+            style: 'metro',
+            className: style,
+            globalPosition:position,
+            showAnimation: "show",
+            showDuration: 0,
+            hideDuration: 0,
+            autoHide: true,
+            clickToHide: true
+        });
+    },
+
+    //auto hide notification
+    Notification.prototype.autoHideNotify = function (style,position, title, text) {
+        var icon = "fa fa-adjust";
+        if(style == "error"){
+            icon = "fa fa-exclamation";
+        }else if(style == "warning"){
+            icon = "fa fa-warning";
+        }else if(style == "success"){
+            icon = "fa fa-check";
+        }else if(style == "custom"){
+            icon = "md md-album";
+        }else if(style == "info"){
+            icon = "fa fa-question";
+        }else{
+            icon = "fa fa-adjust";
+        }
+        $.notify({
+            title: title,
+            text: text,
+            //image: "<i class='"+icon+"'></i>"
+        }, {
+            style: 'metro',
+            className: style,
+            globalPosition:position,
+            showAnimation: "show",
+            showDuration: 0,
+            hideDuration: 0,
+            autoHideDelay: 5000,
+            autoHide: true,
+            clickToHide: true
+        });
+    },
+    //confirmation notification
+    Notification.prototype.confirm = function(style,position, title) {
+        var icon = "fa fa-adjust";
+        if(style == "error"){
+            icon = "fa fa-exclamation";
+        }else if(style == "warning"){
+            icon = "fa fa-warning";
+        }else if(style == "success"){
+            icon = "fa fa-check";
+        }else if(style == "custom"){
+            icon = "md md-album";
+        }else if(style == "info"){
+            icon = "fa fa-question";
+        }else{
+            icon = "fa fa-adjust";
+        }
+        $.notify({
+            title: title,
+            text: 'Are you sure you want to do nothing?<div class="clearfix"></div><br><a class="btn btn-sm btn-white yes">Yes</a> <a class="btn btn-sm btn-danger no">No</a>',
+            image: "<i class='"+icon+"'></i>"
+        }, {
+            style: 'metro',
+            className: style,
+            globalPosition:position,
+            showAnimation: "show",
+            showDuration: 0,
+            hideDuration: 0,
+            autoHide: false,
+            clickToHide: false
+        });
+        //listen for click events from this style
+        $(document).on('click', '.notifyjs-metro-base .no', function() {
+          //programmatically trigger propogating hide event
+          $(this).trigger('notify-hide');
+        });
+        $(document).on('click', '.notifyjs-metro-base .yes', function() {
+          //show button text
+          alert($(this).text() + " clicked!");
+          //hide notification
+          $(this).trigger('notify-hide');
+        });
+    },
+    //init - examples
+    Notification.prototype.init = function() {
+
+    },
+    //init
+    $.Notification = new Notification, $.Notification.Constructor = Notification
+
+
+    
+</script>
+    <script type="text/javascript">
+
+        $(document).ready(function(){
+            /* Check location is already set or not */
+                            /* fetch popular merchants and feature deals */
+                popular_merchants();
+                featured_deals();
+                
+        });
+
+        /* This function is used for get popular merchants */
+        function popular_merchants(){
+            $.ajax({
+                url : "https://xzonelocal.com/web/merchant/home_populer_merchants",
+                type : 'GET',
+                success : function(data) {
+                    var response = JSON.parse(data);
+                    if(response.code == "1"){
+                        var merchants = response.data.nearby_shop;
+                        var distance_type = response.data.distance_type;
+                        var html = "";
+                        for (var index in merchants) {
+                            merchant = merchants[index];
+                            is_open = "";
+                            if(merchant.is_open == "1"){
+                                is_open = "Open";
+                            } else {
+                                is_open = "Close";
+                            }
+                            html += "<div class='col-md-3 col-sm-6'>"
+                                    + "<a href='https://xzonelocal.com/merchants/details/"+merchant.enc_shop_id+"'>"
+                                    + "<div class='merchants-card'>"
+                                    + "<div class='merchants-img'>"
+                                    + "<img src='"+ merchant.cover_image +"' class='img-responsive' alt='"+ merchant.name +"'>"
+                                    + "</div>"
+                                    + "<div class='merchants-info'>"
+                                    + "<div class=''>"
+                                    + "<img src='"+ merchant.shop_image +"' class='merchants-logo img-responsive'>"
+                                    + "<h3 title='" + merchant.name + "'> " + merchant.name + "</h3>"
+                                    + "<p title='"+ merchant.location + "'>" + merchant.location + "</p>"
+                                    + "</div>"
+                                    + "</div>"
+                                    + "<div class='merchants-right-info'>"
+                                    + "<span class='merchants-ratting'><i class='fa fa-star'></i>" + merchant.rate + "</span>"
+                                    + "<span class='merchants-status'>" + is_open + "</span>"
+                                    + "<span class='merchants-distance'>" + merchant.distance + distance_type + "</span>"
+                                    + "</div>"
+                                    + "</div></a></div>";
+                        }
+                        $("#home_popular_merchants").html(html);
+                    } else {
+                        $("#home_popular_merchants").html("<div class='col-md-12'><h4>"+response.message+"</h4></div>");
+                    }
+                }, error : function(request,error) {
+                    /* if any error while setting up session */
+                    $("#home_popular_merchants").html("<div class='col-md-12'><h4>Failed to find near by populer merchants. Please try again later</h4></div>");
+                }
+            });
+        }
+
+        /* This function is used for get featured_deals */
+        function featured_deals(){
+            $.ajax({
+                url : "https://xzonelocal.com/web/deals/home_featured_deals",
+                type : 'GET',
+                success : function(data) {
+                    var response = JSON.parse(data);
+                    if(response.code == "1"){
+                        var deals = response.data;
+                        var html = "";
+                        for (var index in response.data) {
+                            deal = deals[index];
+                            html += "<div class='col-md-4 col-sm-6'>"
+                                    + "<a href='https://xzonelocal.com/deals/details/"+deal.enc_deal_id+"'>" 
+                                    + "<div class='deal-card'>"
+                                    + "<div class='deal-img'><img src='"+deal.deal_image+"' class='img-responsive' alt='"+deal.title+"'></div>" 
+                                    + "<div class='deal-info'>"
+                                    + "<div class=''>"
+                                    + "<span class='deal-price'> $" + deal.price +"</span>"
+                                    + "<h3>" + deal.title + "</h3>"
+                                    + "<p>" + deal.name + "</p>"
+                                    + "</div>"
+                                    + "</div>"
+                                    + "<div class='deal-right-info'>"
+                                    + "<span class='deal-points'> <i class='fa fa-star'></i> " + deal.points + " PTS </span>"
+                                    + "</div>"
+                                    + "</div></a></div>";
+                        }
+                        $("#home_featured_deals").html(html);
+                    } else {
+                        $("#home_featured_deals").html("<div class='col-md-12'><h4>"+response.message+"</h4></div>");
+                    }
+                }, error : function(request,error) {
+                    /* if any error while setting up session */
+                    $("#home_featured_deals").html("<div class='col-md-12'><h4>Failed to find near by featured deals. Please try again later</h4></div>");
+                }
+            });
+        }
+    </script>
+
+ <div class="pac-container pac-logo hdpi" style="display: none; width: 0px; position: absolute; left: 0px; top: 0px;"></div></body></html>
